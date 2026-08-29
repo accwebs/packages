@@ -10,7 +10,7 @@ PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/accwebs/udp-broadcast-relay-redux
 PKG_SOURCE_DATE:=2026-08-29
 PKG_SOURCE_VERSION:=935ce2d1ca88601452b63e4d495a90c8d76980a7
-PKG_MIRROR_HASH:=skip
+PKG_MIRROR_HASH:=cf8d4af1aac955137585abea739962ff8b30bd0ae82be502d231e9168685c55a
 
 include $(INCLUDE_DIR)/package.mk
 
